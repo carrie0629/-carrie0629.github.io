@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #df4bc3;
+  background: #a2fffa;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2440,7 +2440,7 @@ ul.breadcrumb li + li:last-child {
   padding: 0;
 }
 body {
-  background: url("/images/123.jpg");
+  background: url("https://github.com/carrie0629/instrument/blob/master/images/123.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
